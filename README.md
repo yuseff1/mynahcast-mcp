@@ -68,3 +68,7 @@ MCP and REST API access is included on every plan: Creator $12, Pro $24, Team $3
 support@mynahcast.xyz
 
 The Mynahcast service itself is proprietary. The files in this repository are MIT licensed.
+
+## Agent skill
+
+For agents that load skills (OpenClaw, Claude Code, Hermes, Codex), use [`skills/mynahcast/SKILL.md`](skills/mynahcast/SKILL.md): one Markdown file covering setup, the posting workflow and the rules. Copy it into your agent's skills folder, or point the agent at its raw URL.
