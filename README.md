@@ -55,9 +55,9 @@ Tools are named `mynahcast_*` and filtered by the key's scopes. Every tool that 
 
 Each post is delivered once per channel (writes take an `Idempotency-Key`), so a retry never double-posts.
 
-## Live channels (13)
+## Live channels (14)
 
-Bluesky, Mastodon, Telegram, Discord, Nostr, Lemmy, Misskey, Slack, Matrix, DEV, Hashnode, WordPress, Listmonk.
+Bluesky, Mastodon, Telegram, Discord, LinkedIn, Nostr, Lemmy, Misskey, Slack, Matrix, DEV, Hashnode, WordPress, Listmonk.
 
 ## Pricing
 
