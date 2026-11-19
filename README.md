@@ -1,5 +1,7 @@
 # Mynahcast MCP server
 
+[![Mynahcast MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/xyz.mynahcast/mynahcast/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.mynahcast/mynahcast)
+
 **Mynahcast** is an agent-first social media scheduler. The AI agent you already use (Claude, Claude Code, ChatGPT, Cursor, Codex, Gemini and others) drafts, validates and schedules posts in your brand's voice. A person approves every agent post before it goes out, and Mynahcast reads each post back from the platform to confirm it is live where the platform allows it.
 
 This repository documents Mynahcast's **official remote MCP server**. It holds configuration and docs only. The server is hosted by Mynahcast; there is nothing to install or self-host.
